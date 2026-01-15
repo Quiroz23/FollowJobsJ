@@ -134,6 +134,3 @@ curl -X PATCH http://localhost:8080/api/applications/1/status \
 - [ ] Estadísticas y dashboards
 - [ ] Migración a PostgreSQL
 
-## Licencia
-
-MIT
